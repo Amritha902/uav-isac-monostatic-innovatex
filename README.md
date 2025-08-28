@@ -100,18 +100,13 @@ UAV-ISAC Monostatic Innovatex
 
 
 
-1. **Streamlit UI – Simulation Parameters**  
+
    <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9a9e7016-7f0c-4f00-a6b4-c08179c34f53" />
+   <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/e1106196-281e-4bef-a273-c9b65af58f6b" />
+   <img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/ba26f8c7-20cd-4c70-8380-da9b0a004e03" />
 
 
-2. **Range–Doppler Map with Peaks**  
-   ![RD Map](docs/screenshots/rd_map.png)
 
-3. **MUSIC Spectrum Plot**  
-   ![MUSIC Spectrum](docs/screenshots/music_spectrum.png)
-
-4. **CRLB vs MAE Comparison**  
-   ![CRLB Plot](docs/screenshots/crlb_plot.png)
 
 ---
 
