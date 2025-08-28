@@ -3,6 +3,7 @@
 **Problem Statement**  
 Estimation of UAV Parameters Using Monostatic Sensing in ISAC Scenario  
 Develop an AI-based solution using monostatic integrated sensing and communication (ISAC) to estimate UAV range, velocity, and direction of arrival, leveraging advanced signal processing and machine learning. Utilize the channel model based on 3GPP TR 38.901-j00 (Rel-19) Section 7.9 for ISAC applications. Participants are expected to design models that extract these parameters from ISAC signals under the specified channel conditions.
+
 App deployed link: https://amritha902-uav-isac-monostatic-innovatex-app-udc1zu.streamlit.app/
 ---
 
