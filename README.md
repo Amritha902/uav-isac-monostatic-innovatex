@@ -100,7 +100,8 @@ UAV-ISAC Monostatic Innovatex
 
 
 1. **Streamlit UI – Simulation Parameters**  
-   ![Simulation Sidebar](docs/screenshots/sim_sidebar.png)
+   <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9a9e7016-7f0c-4f00-a6b4-c08179c34f53" />
+
 
 2. **Range–Doppler Map with Peaks**  
    ![RD Map](docs/screenshots/rd_map.png)
