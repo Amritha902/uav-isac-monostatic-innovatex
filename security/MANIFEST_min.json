@@ -1,0 +1,26 @@
+{
+  "created_at": "2025-08-28 18:13:30",
+  "features": {
+    "D": 8192,
+    "d_bins": 32,
+    "r_bins": 256
+  },
+  "splits": {
+    "train": 400,
+    "val": 100,
+    "test": 100
+  },
+  "paths": {
+    "X_train": "datasets\\features\\X_train.dat",
+    "X_val": "datasets\\features\\X_val.dat",
+    "X_test": "datasets\\features\\X_test.dat",
+    "model": "ml/baseline.joblib"
+  },
+  "metrics_test": {
+    "MAE_R(m)": 44.1715518652916,
+    "MAE_V(m/s)": 7.815091498373728,
+    "MAE_Theta(deg)": 26.297759666053086,
+    "N": 100
+  },
+  "note": "Efficient streaming build for 8GB RAM"
+}

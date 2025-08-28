@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+streamlit
+scikit-learn
+joblib
+pyyaml
+cryptography
+argon2-cffi
